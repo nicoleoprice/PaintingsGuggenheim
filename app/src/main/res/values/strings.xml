@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Paintings at Guggenheim</string>
+
+    <string name="henri_rousseau">Henri Rousseau</string>
+    <string name="the_football_players">The Football Players</string>
+    <string name="the_football_players_content_description">A painting of men with mustaches and stripped uniforms playing football in the forest.</string>
+    <string name="the_football_players_year">" (1908)"</string>
+
+    <string name="pablo_picasso">Pablo Picasso</string>
+    <string name="woman_ironing">Woman Ironing</string>
+    <string name="woman_ironing_content_description">A painting of a woman with short hair slouching over an iron.</string>
+    <string name="woman_ironing_year">" (1904)"</string>
+
+    <string name="claude_monet">Claude Monet</string>
+    <string name="the_palazzo_ducale">The Palazzo Ducale,"\n"Seen from San Giorgio Manggiore</string>
+    <string name="the_palazzo_ducale_content_description">An impressionist cityscape painting.</string>
+    <string name="the_palazzo_ducale_year">" (1908)"</string>
+
+    <string name="edouard_vuillard">Edouard Vuillard</string>
+    <string name="place_vintimille">Place Vintimille</string>
+    <string name="place_vintimille_content_description">Two vertical paintings depicting a typical Parisian square.</string>
+    <string name="place_vintimille_year">" (1909-10)"</string>
+
+    <string name="fernande_black_mantilla">Fernande with a Black Mantilla</string>
+    <string name="fernande_black_mantilla_content_description">A monochromatic black and white painting of a woman with a black hood.</string>
+    <string name="fernande_black_mantilla_year">" (1905)"</string>
+</resources>
